@@ -4,7 +4,7 @@
 
 Per favore inserisci una descrizione sintetica ed esaustiva delle modifiche introdotte, delle motivazioni e del contesto di tale modifica.
 
-Risolutivo per # (issue risolta)
+Close # (issue risolta)
 
 ## Grado di impatto delle modifiche
 
